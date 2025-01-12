@@ -1,0 +1,1 @@
+The following CSS code snippet demonstrates an issue where the `background-image` property fails to apply correctly when using a relative path within a nested directory structure. The expected behavior is that the background image should be displayed. However, the image doesn't load, even though the file path is correct relative to the CSS file's location.
